@@ -1,0 +1,6 @@
+id,user_name,full_name,email,isActive,createdAt
+1,apple,"Apple Inc.",info@apple.com,1,"2023-05-23 03:54:12"
+2,google,"Google LLC",info@google.com,1,"2023-05-23 03:54:12"
+3,amazon,"Amazon.com, Inc.",info@amazon.com,1,"2023-05-23 03:54:12"
+4,microsoft,"Microsoft Corporation",info@microsoft.com,1,"2023-05-23 03:54:12"
+5,coca-cola,"The Coca-Cola Company",info@coca-cola.com,1,"2023-05-23 03:54:12"

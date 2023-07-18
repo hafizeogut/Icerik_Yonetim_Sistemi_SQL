@@ -1,0 +1,6 @@
+id,url,gallery_name,gallery_type,folder_name,isActive,createdAt
+1,https://www.example.com/galeri1,"Doğa Fotoğrafları",Doğa,doğa-fotoğrafları,1,"2023-05-23 03:54:31"
+2,https://www.example.com/galeri2,"Şehir Manzaraları",Şehir,şehir-manzaraları,1,"2023-05-23 03:54:31"
+3,https://www.example.com/galeri3,"Sanat Sergisi",Sanat,sanat-sergisi,1,"2023-05-23 03:54:31"
+4,https://www.example.com/galeri4,"Etkinlik Fotoğrafları",Etkinlik,etkinlik-fotoğrafları,1,"2023-05-23 03:54:31"
+5,https://www.example.com/galeri5,"Yemek Tarifleri",Yemek,yemek-tarifleri,1,"2023-05-23 03:54:31"

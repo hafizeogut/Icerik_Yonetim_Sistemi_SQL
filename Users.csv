@@ -1,0 +1,6 @@
+id,user_name,full_name,email,isActive,createdAt
+1,john_doe,"John Doe",john.doe@example.com,1,"2023-05-23 03:48:27"
+2,jane_smith,"Jane Smith",jane.smith@example.com,1,"2023-05-23 03:48:27"
+3,michael_brown,"Michael Brown",michael.brown@example.com,1,"2023-05-23 03:48:27"
+4,emily_davis,"Emily Davis",emily.davis@example.com,1,"2023-05-23 03:48:27"
+5,david_jones,"David Jones",david.jones@example.com,1,"2023-05-23 03:48:27"

@@ -1,0 +1,6 @@
+id,url,tittle,description,allowButton,animation_time,animation_type,rankk,isActive,createdAt
+1,https://www.ornek.com/slide1,"Web Sitemize Hoş Geldiniz","Harika ürün ve hizmetlerimizi keşfedin.",1,500,fade,1,1,"2023-05-23 03:49:25"
+2,https://www.ornek.com/slide2,"Yeni Koleksiyon Şimdi Mevcut","Trendy ve şık ürünlerimizle en son koleksiyonumuzu keşfedin.",0,1000,slide,2,1,"2023-05-23 03:49:25"
+3,https://www.ornek.com/slide3,"Özel İndirim: %50 İndirim","Sınırlı süreli indirimimizi kaçırmayın. Hemen alışveriş yapın ve tasarruf edin!",1,750,fade,3,1,"2023-05-23 03:49:25"
+4,https://www.ornek.com/slide4,"Ödül Programımıza Katılın","Bugün kaydolun ve özel avantajlar ve ödüllerden faydalanın.",1,500,fade,4,1,"2023-05-23 03:49:25"
+5,https://www.ornek.com/slide5,"Blogumuzda İlham Alın","İlham, ipuçları ve trendler için blogumuzu okuyun.",0,1000,slide,5,1,"2023-05-23 03:49:25"

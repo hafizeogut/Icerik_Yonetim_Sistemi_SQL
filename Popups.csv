@@ -1,0 +1,6 @@
+id,url,tittle,description,page,isActive,createdAt
+1,https://www.ornek.com/popup1,"Yeni Ürün Lansmanı","Yeni ürünümüzü keşfetmek için tıklayın!",Anasayfa,1,"2023-05-23 03:49:59"
+2,https://www.ornek.com/popup2,"Özel İndirim Fırsatı","Sadece bugüne özel %20 indirim!",Ürünler,1,"2023-05-23 03:49:59"
+3,https://www.ornek.com/popup3,"Abone Olun, İndirim Kazanın","Haber bültenimize abone olarak %10 indirim kazanın!",Blog,1,"2023-05-23 03:49:59"
+4,https://www.ornek.com/popup4,"Siparişlerde Ücretsiz Kargo","Tüm siparişlerinizde ücretsiz kargo avantajı!",Sepet,1,"2023-05-23 03:49:59"
+5,https://www.ornek.com/popup5,"Yeni Sezon İndirimleri","Yeni sezon ürünlerinde %50 indirim fırsatı!",Kampanyalar,1,"2023-05-23 03:49:59"

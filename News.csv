@@ -1,0 +1,6 @@
+id,url,tittle,description,img_url,video_url,news_type,isActive,createdAt
+1,https://www.haberturk.com,"Spor Haberi 1","Bu bir spor haberidir.",https://www.haberturk.com/images/haber1.jpg,NULL,Spor,1,"2023-05-23 03:46:35"
+2,https://www.milliyet.com.tr,"Ekonomi Haberi 1","Bu bir ekonomi haberidir.",https://www.milliyet.com.tr/images/haber1.jpg,NULL,Ekonomi,1,"2023-05-23 03:46:35"
+3,https://www.cnnturk.com,"Politika Haberi 1","Bu bir politika haberidir.",https://www.cnnturk.com/images/haber1.jpg,NULL,Politika,1,"2023-05-23 03:46:35"
+4,https://www.ntv.com.tr,"Sağlık Haberi 1","Bu bir sağlık haberidir.",https://www.ntv.com.tr/images/haber1.jpg,NULL,Sağlık,1,"2023-05-23 03:46:35"
+5,https://www.bbc.com,"Teknoloji Haberi 1","Bu bir teknoloji haberidir.",https://www.bbc.com/images/haber1.jpg,NULL,Teknoloji,1,"2023-05-23 03:46:35"

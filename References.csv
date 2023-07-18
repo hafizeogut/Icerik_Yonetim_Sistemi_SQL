@@ -1,0 +1,6 @@
+id,url,tittle,description,img_url,rankk,isActive,createdAt
+1,https://www.apple.com,Apple,"Teknoloji şirketi olan Apple hakkında açıklama.",https://www.apple.com/logo.png,1,1,"2023-05-23 03:48:10"
+2,https://www.microsoft.com,Microsoft,"Bilgisayar yazılımı ve teknoloji şirketi olan Microsoft hakkında açıklama.",https://www.microsoft.com/logo.png,2,1,"2023-05-23 03:48:10"
+3,https://www.coca-cola.com,Coca-Cola,"Dünyaca ünlü içecek markası olan Coca-Cola hakkında açıklama.",https://www.coca-cola.com/logo.png,3,1,"2023-05-23 03:48:10"
+4,https://www.google.com,Google,"Arama motoru ve teknoloji şirketi olan Google hakkında açıklama.",https://www.google.com/logo.png,4,1,"2023-05-23 03:48:10"
+5,https://www.nike.com,Nike,"Spor giyim ve ayakkabı markası olan Nike hakkında açıklama.",https://www.nike.com/logo.png,5,1,"2023-05-23 03:48:10"

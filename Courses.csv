@@ -1,0 +1,6 @@
+id,url,tittle,description,img_url,rankk,event_date,isActive,createdAt
+1,https://www.orneksite.com/kurs1,"Web Geliştirme Kursu","HTML, CSS ve JavaScript konularını kapsayan kapsamlı web geliştirme kursu.",https://www.orneksite.com/resimler/kurs1.jpg,1,2023-05-20,1,"2023-05-23 03:46:50"
+2,https://www.orneksite.com/kurs2,"Dijital Pazarlama Temelleri","SEO, sosyal medya pazarlama ve e-posta pazarlama gibi dijital pazarlama temellerini öğrenin.",https://www.orneksite.com/resimler/kurs2.jpg,2,2023-05-21,1,"2023-05-23 03:46:50"
+3,https://www.orneksite.com/kurs3,"Grafik Tasarım Uzmanlık Sınıfı","Grafik tasarım prensipleri ve Adobe Creative Suite hakkında ayrıntılı bir kurs.",https://www.orneksite.com/resimler/kurs3.jpg,3,2023-05-22,0,"2023-05-23 03:46:50"
+4,https://www.orneksite.com/kurs4,"Veri Bilimi Başlangıç İçin","Python ve makine öğrenimi algoritmaları gibi veri bilimi kavramlarına giriş.",https://www.orneksite.com/resimler/kurs4.jpg,4,2023-05-23,1,"2023-05-23 03:46:50"
+5,https://www.orneksite.com/kurs5,"Fotoğrafçılık Temel İlkeleri","Başlangıç seviyesi için temel fotoğrafçılık teknikleri ve kompozisyon ipuçları.",https://www.orneksite.com/resimler/kurs5.jpg,5,2023-05-24,1,"2023-05-23 03:46:50"

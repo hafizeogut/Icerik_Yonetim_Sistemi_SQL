@@ -1,0 +1,6 @@
+id,img_url,product_id,rankk,isActive,isCover,createdAt
+1,https://www.orneksite.com/images/telefon-samsung-galaxy-s21-1.jpg,1,1,1,1,"2023-05-23 03:47:32"
+2,https://www.orneksite.com/images/telefon-samsung-galaxy-s21-2.jpg,1,2,1,0,"2023-05-23 03:47:32"
+3,https://www.orneksite.com/images/laptop-lenovo-thinkpad-1.jpg,2,1,1,1,"2023-05-23 03:47:32"
+4,https://www.orneksite.com/images/laptop-lenovo-thinkpad-2.jpg,2,2,1,0,"2023-05-23 03:47:32"
+5,https://www.orneksite.com/images/oyun-konsolu-playstation-5-1.jpg,5,1,1,1,"2023-05-23 03:47:32"
